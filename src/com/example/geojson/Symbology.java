@@ -1,6 +1,4 @@
-
-
-package com.example.g3m_demo;
+package com.example.geojson;
 
 import java.util.ArrayList;
 
